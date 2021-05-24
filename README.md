@@ -1,6 +1,11 @@
-### I wonder why you're here
+### i wonder why you're here
 
-most of the projects are private, so check my website instead :)
+project: most of the projects are private, so check my website instead (even though not everything is listed there) :)  
+status: working part-time as a software dev with the organizations under my profile card  
+myself: i really don't know who i am. I just exist  
+contact: muhfasul.com/#/contact  
+
+
 
 <!--
 **muhfasul159/muhfasul159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
