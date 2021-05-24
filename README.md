@@ -2,7 +2,7 @@
 
 project: most of the projects are private, so check my website instead (even though not everything is listed there) :)  
 status: working part-time as a software dev with the organizations under my profile card  
-myself: i really don't know who i am. I just exist  
+myself: i really don't know who i am. I'm still in high school, and I just exist like everyone else  
 contact: muhfasul.com/#/contact  
 
 
