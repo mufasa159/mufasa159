@@ -1,7 +1,7 @@
 ### i wonder why you're here
 
-project: most of the projects are private, so check my website instead (even though not everything is listed there) :)  
-status: working part-time as a junior software dev at 2 companies, and as an intern at 1 organization  
+project: most of my projects are private, so check my website instead (even though not everything is listed there) :)  
+status: working part-time as a junior software dev at 2 companies, and as a creative director at 1 organization  
 myself: i really don't know who i am. I'm still in high school, and I just exist like everyone else  
 contact: muhfasul.com/#/contact  
 
