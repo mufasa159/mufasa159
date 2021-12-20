@@ -1,7 +1,7 @@
 ### i wonder why you're here
 
 project: most of my projects are private, so check my website instead (even though not everything is listed there) :)  
-status: working part-time as a software dev and graphic designer
+status: working part-time as a software dev and graphic designer  
 myself: a college freshman. I just exist like everyone else  
 contact: muhfasul.com/#/contact  
 
