@@ -1,23 +1,6 @@
-### i wonder why you're here
+### I Wonder Why You're Here
 
-project: most of my projects are private, so check my website instead (even though not everything is listed there) :)  
-status: working part-time as a software dev and graphic designer  
-myself: a college freshman. I just exist like everyone else  
-contact: muhfasul.com/#/contact  
-
-
-
-<!--
-**muhfasul159/muhfasul159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project: Most of my projects are private, so check my website instead (even though not everything is listed there) :)  
+Status: Working part-time as a software dev and graphic designer  
+Myself: A college freshman, existing like everyone else  
+Contact: hello@mufasa.cc  
