@@ -1,4 +1,5 @@
 ### I Wonder Why You're Here
+<img src="https://api.mufasa.cc/dev" alt="cat" style="display:none;"/>
 <table>
  <tr>
   <td>Projects</td>
