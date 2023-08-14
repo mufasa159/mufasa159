@@ -1,5 +1,4 @@
 ### I Wonder Why You're Here
-<img src="https://api.mufasa.cc/dev" alt="cat" style="display:none;"/>
 <table>
  <tr>
   <td>Projects</td>
@@ -18,3 +17,4 @@
   <td>hello@mufasa.cc</td>
  </tr>
 </table>
+<img src="https://api.mufasa.cc/dev" alt="cat" style="display:none;height:3px;"/>
